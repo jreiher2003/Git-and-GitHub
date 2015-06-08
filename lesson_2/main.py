@@ -1,3 +1,4 @@
 # example code for branching
 def hello():
-	pass
+	return 'Walk up to someone and say Hello'
+
